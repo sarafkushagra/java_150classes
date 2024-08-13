@@ -1,3 +1,4 @@
+package DONE;
 import java.util.Scanner;
 
 public class powerof2 {
@@ -18,7 +19,5 @@ public class powerof2 {
         } else {
             System.out.println("Not a power of 2");
         }
-
     }
-
 }
