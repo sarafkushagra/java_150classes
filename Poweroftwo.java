@@ -3,6 +3,9 @@ import java.util.Scanner;
 public class Poweroftwo {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
+        // Your code here
+        
+        sc.close();
         int n = sc.nextInt();
         int count = 0;
         while (n > 0) {
