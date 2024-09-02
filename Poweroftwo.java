@@ -1,7 +1,6 @@
-package DONE;
+// This program checks if a number is a power of 2 or not.
 import java.util.Scanner;
-
-public class powerof2 {
+public class Poweroftwo {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int n = sc.nextInt();
